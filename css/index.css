@@ -1,0 +1,10 @@
+.container {
+	display:grid;
+}
+ nav{
+	background-color:#B7CE71;
+	padding: 1em;
+}
+ nav:nth-child(odd){
+	background: :#4D502E;
+}
